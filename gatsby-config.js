@@ -13,8 +13,8 @@ module.exports = {
     siteUrl: `https://z1ff3r.com`,
     siteDescription: `z1ff3r - CyberSec`,
     siteLanguage: `en`,
-    siteImage: `/banner.jpg`,
-    author: `@hevertydourado`,
+    siteImage: `/static/banner.png`,
+    author: `@hevertydourado`, 
   },
   plugins: [
     {
